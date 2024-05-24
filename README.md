@@ -6,7 +6,7 @@ Esta biblioteca foi criada no âmbito da frequência nº2 da cadeira de Programa
 
 Para instalar, use o seguinte comando:
 ```
-pip install git+https://github.com/Anri17/shoppintutils.git
+pip install git+https://github.com/Anri17/shoppingutils.git
 ```
 
 Depois basta importar a biblioteca:
