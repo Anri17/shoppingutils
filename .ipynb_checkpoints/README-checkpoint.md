@@ -16,20 +16,20 @@ from * import shoppingutils
 
 ### cart.py
 
-``calculate_total_price(cart)``
-Recebe uma lista de itens do cart de compras.
+``calculate_total_price(cart)``  
+Recebe uma lista de itens do cart de compras.  
 Devolve o preço total da compra.
 
 ### discount.py
 
-``apply_discount(cart, discount)``
-Recebe uma lista de itens do cart de compras e um disconto percentual.
+``apply_discount(cart, discount)``  
+Recebe uma lista de itens do cart de compras e um disconto percentual.  
 Devolve um novo cart de compras com o disconto aplicado a todos os produtos
 
 ### iventory.py
 
-``check_availability(cart, inventory)``
-Recebe uma lista de itens do cart de compras e um inventários da quantidade dos produtos.
+``check_availability(cart, inventory)``  
+Recebe uma lista de itens do cart de compras e um inventários da quantidade dos produtos.  
 Devolve True ou False, se os produtos contidos no cart de compras estão disponíves, tendo em atenção o stock no inventário.
 
 ### Exemplos
